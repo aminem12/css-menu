@@ -123,8 +123,6 @@ section{
     text-align: center;
     color: white;
     width:100%;
-    /*display: inline-block;*/
-    /* position: relative; */
 	position: absolute;
     right: 0;
     left: 0;
@@ -178,14 +176,10 @@ section{
     }
     nav ul li a.active{
         background: none;
-        /* color:#006bbd ; */
-        /*color: #09ff00;*/
         color:white;
     }
     nav ul li a:hover{
         background: none;
-        /* color:#0894ff ; */
-        /*color: #00ef00;*/
         color:white;
     }
     #check:checked ~ ul{
